@@ -6,3 +6,4 @@ pipenv --python 3
 
 pipenv install ~~
 pipenv run python ./ch2/example1.py
+pipenv run python ./ch2/example2.py
